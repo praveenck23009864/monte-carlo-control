@@ -163,7 +163,7 @@ def mc_control (env, gamma = 1.0,
 ### Print the optimal Value Funtion
 ```py
 optimal_Q, optimal_V, optimal_pi = mc_control (env,n_episodes = 3000)
-print('\nName: Syed Abdul Wasih H     Register Number: 212221240057')
+print('\nName: praveen ck     Register Number: 212222243003')
 print_state_value_function(optimal_Q, P, n_cols=4, prec=2, title='Action-value function:')
 print_state_value_function(optimal_V, P, n_cols=4, prec=2, title='State-value function:')
 print_policy(optimal_pi, P)
@@ -172,7 +172,7 @@ print_policy(optimal_pi, P)
 ### Probability of Success:
 ```py
 # Find the probability of success and the mean return of you your policy
-print('\nName: Syed Abdul Wasih H     Register Number: 212221240057')
+print('\nName: praveen ck     Register Number: 212222243003')
 print('Reaches goal {:.2f}%. Obtains an average undiscounted return of {:.4f}.'.format(
     probability_success(env, optimal_pi, goal_state=goal_state)*100,
     mean_return(env, optimal_pi)))

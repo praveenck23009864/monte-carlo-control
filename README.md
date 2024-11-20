@@ -178,11 +178,6 @@ print('Reaches goal {:.2f}%. Obtains an average undiscounted return of {:.4f}.'.
     mean_return(env, optimal_pi)))
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-11-20 at 00 14 10_a5a99677](https://github.com/user-attachments/assets/6852fe1d-2978-4292-86a9-82679dafdce9)
-![WhatsApp Image 2024-11-20 at 00 14 12_959612db](https://github.com/user-attachments/assets/b606b069-e67a-4ada-8b5c-b57aba925868)
-![WhatsApp Image 2024-11-20 at 00 14 14_78c23724](https://github.com/user-attachments/assets/5ed60a3c-8217-4cf5-a13d-5d3604cfa9e6)
-
-
 
 ## RESULT:
 Thus the program to implement Monte Carlo control for a given environment is implemented sucessfully.
